@@ -17,6 +17,9 @@
 🧠 Sistemas de recomendación: Aplicación de técnicas de machine learning para recomendaciones personalizadas. <br>
 🌐 Desarrollo web responsivo: Creación de interfaces modernas y funcionales para aplicaciones web. <br>
 
+[![Estado del build](https://github.com/dianitafeliz/Power-BI-EDA-Internet-PI-Henry.git)
+
+
 ## 📫 Contáctame
 ✉️ Correo: dianitafeliz@gmail.com <br>
 🌐 LinkedIn: www.linkedin.com/in/diana-milena-moreno-acevedo-7835841a3 <br>
