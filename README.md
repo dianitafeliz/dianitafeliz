@@ -1,6 +1,12 @@
 # Hola! Mi nombre es Diana Moreno 👋
 ## ¿Quién soy? <br>
-Soy Científico de Datos y Desarrolladora Web con una sólida formación técnica en análisis de datos y desarrollo de software. Me destaco por mi capacidad para resolver problemas, adaptarme a entornos colaborativos y aprender de forma continua. Estoy comprometida con aportar soluciones innovadoras que contribuyan al crecimiento organizacional mientras desarrollo mis habilidades en un entorno multicultural y dinámico.
+💻 Científica de Datos y Desarrolladora Web con experiencia en análisis de datos, visualización, y desarrollo de software.
+📊 Trabajo con tecnologías como Python, JavaScript, HTML, CSS, Power BI, MySQL, y más.
+
+🚀 Me apasiona resolver problemas complejos, colaborar en equipos diversos y crear soluciones innovadoras.
+🌟 Mis proyectos incluyen sistemas de recomendación, análisis de datos, y desarrollo web responsivo.
+
+📂 ¡Explora mis repositorios para conocer más sobre mi trabajo!
 <!--
 **dianitafeliz/dianitafeliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
