@@ -7,9 +7,14 @@
 🌟 Mis proyectos incluyen sistemas de recomendación, análisis de datos, y desarrollo web responsivo.<br>
 
 ## 🛠️ Habilidades Técnicas
-Lenguajes: Python, JavaScript, HTML, CSS <br>
-Bases de datos: MySQL, PostgreSQL <br>
-Análisis de datos: Pandas, NumPy, Matplotlib, Power BI... <br>
-Cloud: Google Cloud Platform <br>
+- Lenguajes: Python, JavaScript, HTML, CSS <br>
+- Bases de datos: MySQL, PostgreSQL <br>
+- Análisis de datos: Pandas, NumPy, Matplotlib, Power BI... <br>
+- Cloud: Google Cloud Platform <br>
+
+## 🚀 Proyectos Destacados
+📊 Análisis de datos y visualización: Exploración y visualización de grandes conjuntos de datos para toma de decisiones. <br>
+🧠 Sistemas de recomendación: Aplicación de técnicas de machine learning para recomendaciones personalizadas. <br>
+🌐 Desarrollo web responsivo: Creación de interfaces modernas y funcionales para aplicaciones web. <br>
 
 📂 ¡Explora mis repositorios para conocer más sobre mi trabajo!<br>
