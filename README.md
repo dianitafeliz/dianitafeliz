@@ -1,5 +1,4 @@
-## Hi there 👋
-<h3>Hola! Mi nombre es Diana Moreno</h3>
+<h2>Hola! Mi nombre es Diana Moreno 👋</h2>
 ***
 dasdas
 <!--
